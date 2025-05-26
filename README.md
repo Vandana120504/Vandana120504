@@ -13,8 +13,10 @@ Tools Used
 Ran the following command:
 ipconfig  (on Windows)
 Identified IP: 192.168.29.138 → Subnet: 192.168.29.138/24
+
 2.Scanned the Network
 nmap -sS 192.168.29.138/24
+
 3.Saved output using:
 nmap -sS 192.168.1.0/24 -oN scan.txt
 
