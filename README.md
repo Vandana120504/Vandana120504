@@ -18,7 +18,7 @@ Identified IP: 192.168.29.138 → Subnet: 192.168.29.138/24
 nmap -sS 192.168.29.138/24
 
 3.Saved output using:
-nmap -sS 192.168.1.0/24 -oN scan.txt
+nmap -sS 192.168.29.130/24 -oN scan.txt
 
 OUTPUT:
 ![output](https://github.com/user-attachments/assets/7eeb80e2-bc91-4175-b52c-6bf6487b75ff)
